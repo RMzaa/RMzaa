@@ -56,7 +56,7 @@ Berikut adalah proyek-proyek yang pernah dan sedang saya tangani:
 |------|--------|
 | **Business Analysis** | Requirements Gathering, BRD/FSD, User Story Mapping, UAT |
 | **Project Management** | Agile/Scrum, Stakeholder Management, Timeline & Resource Planning |
-| **Tools** | JIRA, Confluence, Figma, Draw.io, Microsoft Office Suite |
+| **Tools** | JIRA, Open Project, Draw.io, Microsoft Office Suite |
 | **Technical** | SQL, API Documentation, System Integration, Data Flow Analysis |
 
 
