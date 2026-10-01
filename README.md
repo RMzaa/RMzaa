@@ -86,6 +86,57 @@ Platform mobile untuk operasional KSP Sehati — pengajuan pinjaman anggota dan 
 - Support live operasional seluruh cabang nasional
 
 
+### PT Sinar Mentari Makmur — SMART
+> Aplikasi Penagihan & Visiting Collection
+
+Platform untuk mendukung proses penagihan dan visiting lapangan.
+
+**Role:** Business Analyst (promosi dari IT Support)  
+**Tech Stack:** SQL, Oracle, Figma, BPMN (draw.io)
+**Tahun:** 2022
+
+**Fitur Utama:**
+- Penagihan angsuran & monitoring collection
+- Visiting lapangan
+- Dashboard collection & visit
+
+**Kontribusi Awal (IT Support):**
+- Maintenance & troubleshooting aplikasi SMART
+- Support end-user kolektor lapangan
+
+**Kontribusi sebagai Business Analyst:**
+- Elicit requirement proses penagihan & visiting
+- Merancang modul Visit dari nol
+- Memodelkan workflow collection (BPMN) untuk tim dev
+- Koordinasi UAT dengan user operasional
+
+**Highlight:**
+- Mendukung operasional penagihan & visiting end-to-end
+
+### PT Sinar Mentari Makmur — SEMA
+> Aplikasi Absensi, Izin, Cuti & Sakit
+
+Platform untuk mendukung proses absensi dan pengajuan izin/cuti/sakit karyawan.
+
+**Role:** IT Support
+**Tech Stack:** SQL, Oracle, JIRA
+**Tahun:** 2023
+
+**Fitur Utama:**
+- Absensi harian (check-in/out)
+- Pengajuan izin, cuti, dan sakit
+- Approval atasan & reporting HR
+
+**Kontribusi:**
+- Maintenance & troubleshooting aplikasi SEMA
+- Support end-user karyawan & HR
+- Validasi data absensi & cuti via SQL
+- Koordinasi bugfix dengan tim dev/vendor
+
+**Highlight:**
+- Mendukung operasional absensi & HR end-to-end
+
+
 ### FIFGROUP — FM Verification
 > Aplikasi Verifikasi Data Customer
 
@@ -110,19 +161,12 @@ Platform untuk mendukung proses verifikasi data customer dan operasional bisnis 
 - Digunakan 1.000+ field verification agent secara nasional
 
 
-<!-- ### 🔹 Asosiasi Profesional Jasa Penagihan Indonesia (APJAPI)
-> **APJAPI App** — Aplikasi manajemen membership
-- Aplikasi untuk mendukung pengelolaan keanggotaan asosiasi profesional di bidang jasa penagihan
-
-### 🔹 PT.Sinar Mentari Makmur
-> **SMART** — Aplikasi penagihan (collection)
-- Aplikasi untuk mendukung proses penagihan (*collection*)
 
 ### � PT.Swakarya Insan Mandiri
 > **Multi-product Digital Ecosystem**
 - 💳 **Milecoll** — Aplikasi penagihan (collection)
 - 🌐 **Gawe.id** — Platform job marketplace
-- 🔍 **Imove** — Aplikasi verifikasi data -->
+- 🔍 **Imove** — Aplikasi verifikasi data
 
 ---
 
