@@ -26,6 +26,65 @@ Saya adalah seorang **IT Business Analyst** di **PT Prawathiya Karsa Pradiptha**
 
 Berikut adalah proyek-proyek yang pernah dan sedang saya tangani:
 
+### Indonesia Marketing Association (IMA) — IMA App
+> Aplikasi Manajemen Membership & Engagement
+
+Platform untuk pengelolaan keanggotaan, berita, event, dan engagement Indonesia Marketing Association.
+
+**Role:** Business Analyst (promosi dari IT Support)  
+**Tech Stack:** SQL, Figma, BPMN (draw.io)
+**Tahun:** [2022]
+
+**Fitur Utama:**
+
+**Mobile App (Member):**
+- Berita & update terbaru IMA
+- Absensi event IMA (check-in QR/GPS)
+- Profil & status keanggotaan
+
+**Website (Admin/Pengurus):**
+- Dashboard keanggotaan & reporting anggota
+- Master setup berita (CMS) & konfigurasi aplikasi
+- Manajemen event & monitoring absensi
+
+**Kontribusi Awal (IT Support):**
+- Support end-user mobile & web
+- Reporting data member, transaksi & absensi
+- Analisa bug & issue operasional
+
+**Kontribusi sebagai Business Analyst:**
+- Elicit requirement & improvement dari pengurus/anggota
+- Memodelkan proses membership, event & content (BPMN)
+- Merancang wireframe mobile & web via Figma/JIRA
+- Koordinasi UAT & validasi alur bisnis end-to-end
+
+**Highlight:**
+- Naik jabatan dari IT Support ke Business Analyst
+- Menangani end-to-end: support operasional → requirement bisnis → delivery
+
+
+### KSP Sehati — Mombie Sehati
+> Aplikasi Pengajuan Pinjaman & Collection Koperasi
+
+Platform mobile untuk operasional KSP Sehati — pengajuan pinjaman anggota dan collection lapangan.
+
+**Role:** IT Support  
+**Tech Stack:** SQL, Oracle, REST API, Postman
+**Tahun:** [2022]
+
+**Fitur Utama:**
+- Pengajuan pinjaman koperasi via mobile
+- Collection & monitoring angsuran lapangan
+
+**Kontribusi Utama:**
+- Maintenance & troubleshooting aplikasi mobile Mombie Sehati
+- Support end-user & field collection (bug report, data issue)
+- Koordinasi dengan tim dev/vendor untuk bugfix & update
+
+**Highlight:**
+- Rollout Mombie Sehati pilot 1 cabang ke nasional
+- Support live operasional seluruh cabang nasional
+
 
 ### FIFGROUP — FM Verification
 > Aplikasi Verifikasi Data Customer
@@ -33,8 +92,8 @@ Berikut adalah proyek-proyek yang pernah dan sedang saya tangani:
 Platform untuk mendukung proses verifikasi data customer dan operasional bisnis FIFGROUP.
 
 **Role:** Business Analyst  
-**Tech Stack:** SQL, Figma, BPMN (draw.io)
-**Tahun:** 2025
+**Tech Stack:** SQL, Figma, BPMN (draw.io) 
+**Tahun:** [2025]
 
 **Fitur Utama:**
 - Aplikasi mobile untuk verifikasi data customer di lapangan (field agent)
@@ -50,11 +109,8 @@ Platform untuk mendukung proses verifikasi data customer dan operasional bisnis 
 - Mempercepat proses verifikasi 40% melalui efisiensi workflow & dashboard monitoring
 - Digunakan 1.000+ field verification agent secara nasional
 
-### � Indonesia Marketing Association (IMA)
-> **IMA App** — Aplikasi manajemen membership
-- Aplikasi untuk mendukung pengelolaan keanggotaan Indonesia Marketing Association
 
-### 🔹 Asosiasi Profesional Jasa Penagihan Indonesia (APJAPI)
+<!-- ### 🔹 Asosiasi Profesional Jasa Penagihan Indonesia (APJAPI)
 > **APJAPI App** — Aplikasi manajemen membership
 - Aplikasi untuk mendukung pengelolaan keanggotaan asosiasi profesional di bidang jasa penagihan
 
@@ -66,7 +122,7 @@ Platform untuk mendukung proses verifikasi data customer dan operasional bisnis 
 > **Multi-product Digital Ecosystem**
 - 💳 **Milecoll** — Aplikasi penagihan (collection)
 - 🌐 **Gawe.id** — Platform job marketplace
-- 🔍 **Imove** — Aplikasi verifikasi data
+- 🔍 **Imove** — Aplikasi verifikasi data -->
 
 ---
 
