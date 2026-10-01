@@ -26,21 +26,23 @@ Saya adalah seorang **IT Business Analyst** di **PT Prawathiya Karsa Pradiptha**
 
 Berikut adalah proyek-proyek yang pernah dan sedang saya tangani:
 
+**Peran saya di seluruh proyek:** Business Analyst, dengan tanggung jawab mengumpulkan request dari stakeholder (*requirements gathering*) dan menganalisis kebutuhan aplikasi.
+
 ### 🔹 FIFGROUP
 > **FM Verification** — Aplikasi verifikasi data customer
-- Mengelola aplikasi yang digunakan untuk proses verifikasi data customer dalam mendukung operasional bisnis
+- Aplikasi untuk mendukung proses verifikasi data customer dan operasional bisnis
 
 ### � Indonesia Marketing Association
 > **IMA App** — Aplikasi manajemen membership
-- Mengembangkan aplikasi untuk mendukung manajemen keanggotaan organisasi pemasaran di Indonesia
+- Aplikasi untuk mendukung pengelolaan keanggotaan Indonesia Marketing Association
 
 ### 🔹 Asosiasi Profesional Jasa Penagihan Indonesia
 > **APJAPI App** — Aplikasi manajemen membership
-- Mengembangkan aplikasi untuk mendukung manajemen keanggotaan asosiasi profesional di bidang jasa penagihan
+- Aplikasi untuk mendukung pengelolaan keanggotaan asosiasi profesional di bidang jasa penagihan
 
 ### 🔹 Sinar Mentari Makmur
 > **SMART** — Aplikasi penagihan (collection)
-- Menangani aplikasi yang bergerak di bidang penagihan untuk mendukung proses collection
+- Aplikasi untuk mendukung proses penagihan (*collection*)
 
 ### � PT Swakarya Insan Mandiri
 > **Multi-product Digital Ecosystem**
