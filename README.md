@@ -32,7 +32,7 @@ Berikut adalah proyek-proyek yang pernah dan sedang saya tangani:
 Platform untuk pengelolaan keanggotaan, berita, event, dan engagement Indonesia Marketing Association.
 
 **Role:** Business Analyst (promosi dari IT Support)  
-**Tech Stack:** SQL, Figma, BPMN (draw.io)
+**Tech Stack:** SQL, Figma, BPMN (draw.io)  
 **Tahun:** [2022]
 
 **Fitur Utama:**
@@ -69,7 +69,7 @@ Platform untuk pengelolaan keanggotaan, berita, event, dan engagement Indonesia 
 Platform mobile untuk operasional KSP Sehati — pengajuan pinjaman anggota dan collection lapangan.
 
 **Role:** IT Support  
-**Tech Stack:** SQL, Oracle, REST API, Postman
+**Tech Stack:** SQL, Oracle, REST API, Postman  
 **Tahun:** [2022]
 
 **Fitur Utama:**
@@ -119,7 +119,7 @@ Platform untuk mendukung proses penagihan dan visiting lapangan.
 Platform untuk mendukung proses absensi dan pengajuan izin/cuti/sakit karyawan.
 
 **Role:** IT Support
-**Tech Stack:** SQL, Oracle, JIRA
+**Tech Stack:** SQL, Oracle, JIRA  
 **Tahun:** 2023
 
 **Fitur Utama:**
@@ -143,7 +143,7 @@ Platform untuk mendukung proses absensi dan pengajuan izin/cuti/sakit karyawan.
 Platform untuk mendukung proses verifikasi data customer dan operasional bisnis FIFGROUP.
 
 **Role:** Business Analyst  
-**Tech Stack:** SQL, Figma, BPMN (draw.io) 
+**Tech Stack:** SQL, Figma, BPMN (draw.io)   
 **Tahun:** [2025]
 
 **Fitur Utama:**
