@@ -33,7 +33,7 @@ Berikut adalah proyek-proyek yang pernah dan sedang saya tangani:
 Platform untuk mendukung proses verifikasi data customer dan operasional bisnis FIFGROUP.
 
 **Role:** Business Analyst  
-**Tech Stack:** SQL, Figma, BPMN (draw.io),
+**Tech Stack:** SQL, Figma, BPMN (draw.io)
 **Tahun:** 2025
 
 **Fitur Utama:**
