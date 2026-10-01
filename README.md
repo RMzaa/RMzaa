@@ -26,25 +26,43 @@ Saya adalah seorang **IT Business Analyst** di **PT Prawathiya Karsa Pradiptha**
 
 Berikut adalah proyek-proyek yang pernah dan sedang saya tangani:
 
-**Peran saya di seluruh proyek:** Business Analyst, dengan tanggung jawab mengumpulkan request dari stakeholder (*requirements gathering*) dan menganalisis kebutuhan aplikasi.
 
-### 🔹 FIFGROUP
-> **FM Verification** — Aplikasi verifikasi data customer
-- Aplikasi untuk mendukung proses verifikasi data customer dan operasional bisnis
+### FIFGROUP — FM Verification
+> Aplikasi Verifikasi Data Customer
 
-### � Indonesia Marketing Association
+Platform untuk mendukung proses verifikasi data customer dan operasional bisnis FIFGROUP.
+
+**Role:** Business Analyst  
+**Tech Stack:** SQL, Figma, BPMN (draw.io), JIRA, Confluence  
+**Tahun:** 2024
+
+**Fitur Utama:**
+- Aplikasi mobile untuk verifikasi data customer di lapangan (field agent)
+- Website monitoring & reporting untuk operasional dan manajemen
+
+**Kontribusi Utama:**
+- Elicit & mendokumentasikan business requirement & workflow verifikasi end-to-end
+- Merancang dashboard monitoring real-time untuk tracking SLA & volume verifikasi
+- Mengkoordinasikan UAT dengan business user & tim IT
+- Memodelkan proses bisnis (BPMN) sebagai acuan development tim teknis
+
+**Highlight:**
+- Mempercepat proses verifikasi 40% melalui efisiensi workflow & dashboard monitoring
+- Digunakan 1.000+ field verification agent secara nasional
+
+### � Indonesia Marketing Association (IMA)
 > **IMA App** — Aplikasi manajemen membership
 - Aplikasi untuk mendukung pengelolaan keanggotaan Indonesia Marketing Association
 
-### 🔹 Asosiasi Profesional Jasa Penagihan Indonesia
+### 🔹 Asosiasi Profesional Jasa Penagihan Indonesia (APJAPI)
 > **APJAPI App** — Aplikasi manajemen membership
 - Aplikasi untuk mendukung pengelolaan keanggotaan asosiasi profesional di bidang jasa penagihan
 
-### 🔹 Sinar Mentari Makmur
+### 🔹 PT.Sinar Mentari Makmur
 > **SMART** — Aplikasi penagihan (collection)
 - Aplikasi untuk mendukung proses penagihan (*collection*)
 
-### � PT Swakarya Insan Mandiri
+### � PT.Swakarya Insan Mandiri
 > **Multi-product Digital Ecosystem**
 - 💳 **Milecoll** — Aplikasi penagihan (collection)
 - 🌐 **Gawe.id** — Platform job marketplace
