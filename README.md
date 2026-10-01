@@ -56,22 +56,10 @@ Berikut adalah proyek-proyek yang pernah dan sedang saya tangani:
 |------|--------|
 | **Business Analysis** | Requirements Gathering, BRD/FSD, User Story Mapping, UAT |
 | **Project Management** | Agile/Scrum, Stakeholder Management, Timeline & Resource Planning |
-| **Tools** | JIRA, Confluence, Figma, Draw.io, Microsoft Office Suite |
+| **Tools** | JIRA, Open Project, Draw.io, Microsoft Office Suite |
 | **Technical** | SQL, API Documentation, System Integration, Data Flow Analysis |
 
----
 
-## � GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RMzaa&show_icons=true&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RMzaa&theme=tokyonight&hide_border=true)
-
-</div>
-
----
 
 <div align="center">
 
